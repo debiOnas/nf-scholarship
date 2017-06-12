@@ -40,7 +40,7 @@
 					 <div class="container">
 							<div class="gallery-head text-center">
 							 <h3>Apa Itu SNF ?</h3>
-							 <p>Scholarship Nurul Fikri Adalah ....</p>
+							 <p>Scholarship Nurul Fikri Adalah Sebuah website untuk pendaftaran beasiswa STT Nurul Fikri untuk Mahasiswa baru</p>
 							 <span> </span>
 						 </div>
 						 <!-- content -->
@@ -50,25 +50,24 @@
        <div id="about" class="about">
        		<div class="container">
        		   <div class="gallery-head text-center">
-				  <h3>Keuntungan Bersama Kami</h3>
-				  <p>apalah pokoknya</p>
+				  <h3>Keuntungannya bergabung scholarship Nurul Fikri</h3>
 				  <span> </span>
 			    </div>
        			<div class="row text-center">
        				<div class="col-md-4 about_grid">
        					<i class="icon1"> </i>
        					<h3><a href="#">Kuliah Gratis</a></h3>
-       					<p>Kuliah blablabla..</p>
+       					<p>Calon Mahasiswa yang mendapatkan Scholarship fikri ini mendapatkan biaya kuliah secara gratis serta mendapatkan tunjangan setiap bulannya</p>
        				</div>
        				<div class="col-md-4 about_grid">
        					<i class="icon2"> </i>
        					<h3><a href="#">Sarjana Komputer</a></h3>
-       					<p>Sarjana blablabla...</p>
+       					<p>Calon Mahasiswa akan mendapatkan sarjana Komputer terakreditasi dengan perusahaan-perusahaan IT ternama </p>
        				</div>
        				<div class="col-md-4 about_grid">
        					<i class="icon3"> </i>
        					<h3><a href="#">Siap Kerja</a></h3>
-       					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat</p>
+       					<p>STT NF memiliki kerjasama dengan banyak perusahaan yang membuka lapangan kerja dan siap menampung para mahasiswa setelah lulus</p>
        				</div>
        			</div>
        		</div>
